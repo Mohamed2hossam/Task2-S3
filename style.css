@@ -1,0 +1,85 @@
+
+h1{
+    color: snow;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    
+}
+.YOURNAME{
+    width: 560px;
+    padding: 3%;
+    border-radius: 4px;
+    background-color: white;
+    margin: 6% 6% 1% 6%;
+    border-color: rgb(34, 226, 226);
+}
+.YOUREMAILADDRESS{
+    width: 560px;
+    padding: 3%;
+    border-radius: 4px;
+    background-color: white;
+    margin: 1% 6% 1% 6%;
+    border-color:  rgb(34, 226, 226);
+}
+.COMPANY{
+    width: 100%;
+    padding: 6%;
+    border-radius: 6px;
+    background-color: white;
+    margin: 2% 7% 1% 12%;
+    border-color: rgb(34, 226, 226);
+}
+.PHONE{
+    width: 76%;
+    padding: 6%;
+    border-radius: 6px;
+    background-color: white;
+    margin: 2% 1% 1% 35%;
+    border-color: rgb(34, 226, 226); 
+}
+.YOURMESSAGE{
+    width: 560px;
+    height: 100px;
+    padding: 3%;
+    border-radius: 4px;
+    background-color: white;
+    margin: 1% 6% 1% 6%;
+    border-color:  rgb(34, 226, 226);
+}
+.SENDMESSAGE{
+    width: 88%;
+    padding: 6%;
+    border-radius: 6px;
+    background-color: yellow;
+    margin: 2% 1% 1% 35%;
+    border-color:yellow; 
+    
+}
+#FIND{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(200, 226, 246);
+    font-size: 28px;
+}
+#STREET{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(200, 226, 246);
+    font-size: 13px; 
+    margin: 0%;
+}
+#MAPS{
+    font-family: "Open Sans", sans-serif;
+    color:yellow;
+    font-size: 13px; 
+    margin: 0%;  
+}
+.list{
+    font-family: "Open Sans", sans-serif;
+    color:rgb(200, 226, 246);
+    font-size: 13px;
+    
+}
+*{
+    background-color: rgb(34, 226, 226);
+
+}
